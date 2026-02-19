@@ -135,3 +135,7 @@ http://106.116.241.106:9999/rtp/239.254.201.3:5227$河北电信21
 http://106.116.241.106:9999/rtp/239.254.201.167:6360$河北电信21
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
 http://106.116.241.106:9999/rtp/239.254.201.164:6355$河北电信21
+#EXTINF:-1 tvg-name="凤凰资讯HD" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯HD.png" group-title="数字频道",凤凰资讯HD
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰中文HD" tvg-logo="https://live.fanmingming.com/tv/凤凰中文HD.png" group-title="数字频道",凤凰中文HD
+http://cdn6.163189.xyz/163189/fhzw
