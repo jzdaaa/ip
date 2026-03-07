@@ -1,19 +1,28 @@
 {
   "sites": [
     {
-      "key": "iqiyi",
-      "name": "爱奇艺",
+      "key": "maotai",
+      "name": "茅台",
       "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "maotai",
-      "name": "茅台",
+      "key": "iqiyi",
+      "name": "爱奇艺",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dytt",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -33,6 +42,21 @@
           "name": "中文台",
           "urls": [
             "http://cdn6.163189.xyz/163189/fhzw"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "央视",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "http://183.236.43.98:4013/udp/239.77.1.144:5146",
+            "http://42.237.154.155:4022/rtp/225.1.4.73:1102",
+            "http://123.118.54.253:8686/rtp/239.3.1.129:8008",
+            "http://121.29.215.252:2083/rtp/239.253.92.83:8012",
+            "http://144.255.16.170:6688/udp/239.21.1.120:5002"
           ]
         }
       ]
