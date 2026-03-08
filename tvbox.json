@@ -4,7 +4,7 @@
       "key": "dytt",
       "name": "电影天堂",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod?ac=list",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "iqiyi",
       "name": "爱奇艺",
       "type": 1,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod?ac=list",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "maotai",
       "name": "茅台",
       "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod?ac=list",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "ff",
       "name": "非凡",
       "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod?ac=list",
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "lzi",
       "name": "量子",
       "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod?ac=list",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "xinlang",
       "name": "新浪",
       "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod?ac=list",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +67,7 @@
       "key": "ikun",
       "name": "ikun",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod?ac=list",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -76,7 +76,7 @@
       "key": "360",
       "name": "360",
       "type": 1,
-      "api": "https://360zyzz.com/api.php/provide/vod?ac=list",
+      "api": "https://360zyzz.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
