@@ -32,7 +32,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://kakaxi.indevs.in/iptv.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/jzdaaa/ip/refs/heads/main/iptv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
