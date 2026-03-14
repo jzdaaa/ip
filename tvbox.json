@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "suoni",
-      "name": "索尼",
+      "key": "ck",
+      "name": "ck",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
